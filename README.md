@@ -1,14 +1,14 @@
 <div align="center">
-  <h1>RuFoundation</h1>
-  <h3>Wiki engine compatible with Wikidot developed by Russian SCP Branch</h3>
-  <h4><a href="https://boosty.to/scpfanpage">#StandWithSCPRU</a></h4>
-  <img src="https://i.kym-cdn.com/photos/images/facebook/001/839/765/e80.png" width="300px" alt="scp-ru">
+  <h1>KMFoundation</h1>
+  <h3>Wiki engine compatible with Wikidot developed by Russian SCP Branch and expanded upon by SCP-KM</h3>
+  <h4><a href="https://github.com/tsubakihikaru/KMFoundation">#StandWithSCPKM</a></h4>
+  <img src="https://scp-km.wdfiles.com/local--files/main/scp-km.png" width="300px" alt="scp-km">
 </div>
 
 
 ## Requirements
 
-Note: this is what I tested with, your mileage may differ.
+Note: this is what the Russian SCP Branch tested with, your mileage may differ.
 
 - Windows 10
 - PostrgeSQL 17.2
