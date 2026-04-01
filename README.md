@@ -1,8 +1,13 @@
 <div align="center">
   <h1>KMFoundation</h1>
   <h3>Wiki engine compatible with Wikidot developed by Russian SCP Branch and expanded upon by SCP-KM</h3>
-  <h4><a href="https://github.com/tsubakihikaru/KMFoundation">#StandWithSCPKM</a></h4> | <h4><a href="https://boosty.to/scpfanpage">#StandWithRuFoundation</a></h4> |
-| :---: | :---: |
+    <p>
+    <strong><a href="https://github.com/tsubakihikaru/KMFoundation">#StandWithSCPKM</a></strong> 
+    &nbsp; | &nbsp; 
+    <strong><a href="https://boosty.to/scpfanpage">#StandWithRuFoundation</a></strong>
+    &nbsp; | &nbsp; 
+    <strong><a href="https://scp-kh.wikidot.com">SCP-KM Mockup site for the RuFoundation Engine</a></strong>
+  </p>
   <img src="https://scp-km.wdfiles.com/local--files/main/scp-km.png" width="300px" alt="scp-km">
 </div>
 
